@@ -44,7 +44,6 @@ function createCard() {
     }
 }
 
-
 let clickedCard = {
     one: null,
     two: null,
@@ -65,7 +64,6 @@ function flipCard(event) {
         clickedCard.two.style.backgroundColor = color
         checkForMatch()
     }
-
 }
 
 function checkForMatch() {
@@ -80,6 +78,6 @@ function checkForMatch() {
             clickedCard.one.style.backgroundColor = 'white'
             clickedCard.two.style.backgroundColor = 'white'
             clickedCard.counter = 0
-        }, 1500)
+        }, 900)
     }
 }

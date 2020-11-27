@@ -12,17 +12,17 @@ div {
     width: 100px;
     height: 100px;
     margin: 5px;
-    position: relative;
-    transform: scale(1);
-    transform-style: preserve-3d;
-    transition: transform .5s;
+    /*position: relative;*/
+    /*transform: scale(1);*/
+    /*transform-style: preserve-3d;*/
+    /*transition: transform .5s;*/
     border: 1px solid dimgrey;
 }
 
-div:active {
-    transform: scale(0.97);
-    transition: transform .2s;
-}
+/*div:active {*/
+/*    transform: scale(0.97);*/
+/*    transition: transform .2s;*/
+/*}*/
 
 div.flip {
     transform: rotateY(180deg);
