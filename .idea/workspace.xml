@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23091eef-0088-4bf7-9f6d-dfbcef271870" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/CodeAcademyProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackJack/assets/betImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackJack/assets/color-poker-chips.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackJack/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackJack/assets/iconsChipsPoker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackJack/blackJack.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackJack/blackJack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blackJack/blackJack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../eshop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../movies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/assets/betImg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/assets/color-poker-chips.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/assets/iconsChipsPoker.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/quiz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/quiz.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/quiz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tickTackToe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tickTackToe/tickTackToe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tickTackToe/tickTackToe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/.idea/WebstormProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/.idea/aboutMe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/assets/space_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/indexZ.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/indexZ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/aboutMe/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot1/boot1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot1/boot1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot2/boot2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot2/boot2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot3/boot3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot3/boot3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot4/boot4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot4/boot4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot5/boot5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot5/boot5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot6/boot6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot6/boot6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot7/boot7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/bootstrap/boot7/boot7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/.idea/code_academy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/flexGrow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/flexGrow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/simplePage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/simplePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/code_academy/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript1/javascript1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript1/javascript1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript2/javascript2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript2/javascript2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript3/javascript3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript3/javascript3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript4/javascript4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript4/javascript4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript5/javascript5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript5/javascript5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript6/javascript6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/javascript6/javascript6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/monday.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/scss/_model.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/scss/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/scss/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/monday/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS1/nuotolinisJS1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS1/nuotolinisJS1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS10/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS10/nuotolinisJS10.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS10/nuotolinisJS10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS10/nuotolinisJS10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS11/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS11/nuotolinisJS11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS11/nuotolinisJS11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS11/nuotolinisJS11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS12/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS12/nuotolinisJS12.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS12/nuotolinisJS12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS12/nuotolinisJS12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS2/nuotolinisJS2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS2/nuotolinisJS2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS3/nuotolinisJS3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS3/nuotolinisJS3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS4/nuotolinisJS4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS4/nuotolinisJS4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS4/nuotolinisJS4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS5/nuotolinisJS5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS5/nuotolinisJS5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS5/nuotolinisJS5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS6/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS6/nuotolinisJS6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS6/nuotolinisJS6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS6/nuotolinisJS6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS7/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS7/nuotolinisJS7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS7/nuotolinisJS7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS7/nuotolinisJS7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS8/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS8/nuotolinisJS8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS8/nuotolinisJS8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS8/nuotolinisJS8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS9/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS9/nuotolinisJS9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS9/nuotolinisJS9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/nuotolinisJS9/nuotolinisJS9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/amazingCity/amazingCity.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/amazingCity/amazingCity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/animatcion/assets/space_icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/animatcion/roomAnimation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/animatcion/roomAnimation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/animation2/animation2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/animation2/animation2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/grid1/grid1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/grid1/grid1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/grid2/grid2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/grid2/grid2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/grid3WithHeader/grid3WithHeader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/grid3WithHeader/grid3WithHeader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec/gridSpec.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec/gridSpec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec2/gridSpec2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec2/gridSpec2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec3/gridSpec3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec3/gridSpec3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec4/gridSpec4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec4/gridSpec4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec5/assets/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec5/gridSpec5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/gridSpec5/gridSpec5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/layoutTable/assets/136-1363649_png-icons-free-download-gamification-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/layoutTable/assets/Business-flat-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/layoutTable/assets/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/layoutTable/assets/social-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/layoutTable/layoutTable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/octobre1-09/layoutTable/layoutTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/post method/assets/gameIcons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/post method/postMethod.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/post method/postMethod.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myProjects/post method/postMethod.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1knWSmrTYPsiZZ3kKB6BHh9WetE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23091eef-0088-4bf7-9f6d-dfbcef271870" name="Default Changelist" comment="" />
+      <created>1606336837838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606336837838</updated>
+      <workItem from="1606336839036" duration="11727000" />
+      <workItem from="1606379766019" duration="3059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="195" key="run.anything.popup" timestamp="1606382721135">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1606382721135" />
+  </component>
+</project>
