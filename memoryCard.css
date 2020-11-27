@@ -17,6 +17,7 @@ body {
     margin: auto;
     display: flex;
     flex-wrap: wrap;
+    border: none;
 }
 
 .memoryCard {
@@ -36,26 +37,6 @@ body {
 
 .memoryCard.flip {
     transform: rotateY(180deg);
-}
-
-.frontFace {
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    position: absolute;
-    border-radius: 5px;
-    background: #858585;
-    backface-visibility: hidden;
-}
-
-.backFace {
-    width: 100%;
-    height: 100%;
-    padding: 20px;
-    position: absolute;
-    border-radius: 5px;
-    background: #2f2f2f;
-    backface-visibility: hidden;
 }
 
 

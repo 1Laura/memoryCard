@@ -10,7 +10,7 @@ function createCard() {
     for (let i = 0; i < 12; i++) {
         let randomIndex = Math.floor(Math.random() * colorsArray.length)
         memoryGame.innerHTML += `
-        <div class="${colors[randomIndex]}" onclick="flipCard(event)"></div>`
+        <div class="${colorsArray[randomIndex]}" onclick="flipCard(event)"></div>`
 
         // let memoryCard = document.createElement("div")
         // memoryCard.classList.add('memoryCard')
@@ -52,18 +52,33 @@ function flipCard(event) {
     let color = event.target.className
     event.target.style.backgroundColor = color
 
-    if (clickedCard.counter === 0) {
+    if (clickedCard.counter === 0 && !event.target.classList.contains('clicked')) {
         clickedCard.one = event.target
         clickedCard.one.style.backgroundColor = color
         return clickedCard.counter++
     }
-    if (clickedCard.counter === 1) {
+    if (clickedCard.counter === 1 && !event.target.classList.contains('clicked')) {
         clickedCard.two = event.target
         clickedCard.two.style.backgroundColor = color
-        return clickedCard.counter++
+        checkForMatch()
     }
 
+}
 
+function checkForMatch() {
+    if (clickedCard.one.className === clickedCard.two.className) {
+        clickedCard.one.classList.add('clicked')
+        clickedCard.two.classList.add('clicked')
+        clickedCard.counter = 0
+    } else {
+        setTimeout(() => {
+            clickedCard.one.classList.remove('clicked')
+            clickedCard.two.classList.remove('clicked')
+            clickedCard.one.style.backgroundColor = 'white'
+            clickedCard.two.style.backgroundColor = 'white'
+            clickedCard.counter = 0
+        }, 1500)
+    }
 }
 
 
